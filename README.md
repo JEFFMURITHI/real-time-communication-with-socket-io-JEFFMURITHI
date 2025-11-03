@@ -1,3 +1,6 @@
+vercel link: https://real-time-communication-with-socket-five.vercel.app/
+render link: https://real-time-communication-with-socket-io-y3cm.onrender.com 
+
 # Real-Time Chat Application with Socket.io
 
 This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and server.
